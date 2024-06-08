@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\soope\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.16\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\soope\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.16\\variants\\doitESP32devkitV1"
+  },
+  {
+    "Sourcefile": "C:\\Users\\soope\\Desktop\\Visual Studio Code\\Hackathon 2024\\build\\sketch\\ESP32.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
